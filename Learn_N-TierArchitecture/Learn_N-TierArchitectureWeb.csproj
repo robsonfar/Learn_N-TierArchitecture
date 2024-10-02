@@ -7,4 +7,17 @@
     <RootNamespace>Learn_N_TierArchitecture</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Learn_N-TierArchitecture.DataAccess\Learn_N-TierArchitecture.DataAccess.csproj" />
+    <ProjectReference Include="..\Learn_N-TierArchitecture.Model\Learn_N-TierArchitecture.Model.csproj" />
+  </ItemGroup>
+
 </Project>

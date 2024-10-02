@@ -1,4 +1,4 @@
-using Learn_N_TierArchitecture.Models;
+using Learn_N_TierArchitecture.Model;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_N-TierArchitectureWeb", "Learn_N-TierArchitecture\Learn_N-TierArchitectureWeb.csproj", "{B0543822-CDEE-423D-BE68-0605ECC26DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn_N-TierArchitectureWeb", "Learn_N-TierArchitecture\Learn_N-TierArchitectureWeb.csproj", "{B0543822-CDEE-423D-BE68-0605ECC26DDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_N-TierArchitecture.DataAccess", "Learn_N-TierArchitecture.DataAccess\Learn_N-TierArchitecture.DataAccess.csproj", "{A1BE0816-7596-46ED-8824-171FCF8B19D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn_N-TierArchitecture.DataAccess", "Learn_N-TierArchitecture.DataAccess\Learn_N-TierArchitecture.DataAccess.csproj", "{A1BE0816-7596-46ED-8824-171FCF8B19D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_N-TierArchitecture.Model", "Learn_N-TierArchitecture.Model\Learn_N-TierArchitecture.Model.csproj", "{32F90CE1-37CD-460E-895D-52C5205AD48D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn_N-TierArchitecture.Model", "Learn_N-TierArchitecture.Model\Learn_N-TierArchitecture.Model.csproj", "{32F90CE1-37CD-460E-895D-52C5205AD48D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_N-TierArchitecture.Util", "Learn_N-TierArchitecture.Util\Learn_N-TierArchitecture.Util.csproj", "{AC6F4D27-29B8-4B8B-B1B6-89F29035B3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn_N-TierArchitecture.Util", "Learn_N-TierArchitecture.Util\Learn_N-TierArchitecture.Util.csproj", "{AC6F4D27-29B8-4B8B-B1B6-89F29035B3FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

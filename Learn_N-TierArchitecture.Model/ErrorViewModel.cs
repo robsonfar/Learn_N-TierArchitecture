@@ -1,4 +1,4 @@
-namespace Learn_N_TierArchitecture.Models
+namespace Learn_N_TierArchitecture.Model
 {
     public class ErrorViewModel
     {
